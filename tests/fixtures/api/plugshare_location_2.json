@@ -1,0 +1,181 @@
+{
+  "access": 1,
+  "access_restriction": null,
+  "access_restriction_description": null,
+  "access_restriction_descriptions": [],
+  "access_restriction_items": [],
+  "access_restrictions": [],
+  "address": "Avenida de las Pruebas 102, Villa Ejemplo, 09002, México",
+  "all_promos": [],
+  "amenities": [
+    {
+      "location_id": 990002,
+      "type": 1
+    }
+  ],
+  "available_station_count": null,
+  "coming_soon": false,
+  "confidence": 1,
+  "connector_types": [
+    "J-1772"
+  ],
+  "cost": false,
+  "cost_description": "Dato sintético de prueba",
+  "created_at": "2000-01-01T12:00:00Z",
+  "custom_ports": "Dato sintético de prueba",
+  "datasources": [],
+  "description": "Dato sintético de prueba",
+  "e164_phone_number": "+12025550102",
+  "enabled": true,
+  "entrance_latitude": null,
+  "entrance_longitude": null,
+  "formatted_phone_number": "+1 202-555-0102",
+  "has_dynamic_pricing": false,
+  "hours": null,
+  "icon": "Dato sintético de prueba",
+  "icon_type": "Dato sintético de prueba",
+  "id": 990002,
+  "in_use_station_count": null,
+  "is_fast_charger": false,
+  "latitude": 20.25,
+  "locale": "es-MX",
+  "locale_v2": "es-MX",
+  "locked": false,
+  "locked_fields": [],
+  "longitude": -99.25,
+  "majority_network_id": null,
+  "meta_description": "Dato sintético de prueba",
+  "name": "Hotel Ficticio Beta",
+  "nissan_nctc": false,
+  "ocpi_ids": null,
+  "open247": false,
+  "opened_at": null,
+  "opening_date": null,
+  "opening_times": null,
+  "overhead_clearance_meters": null,
+  "parking_attributes": [],
+  "parking_level": null,
+  "parking_type_name": null,
+  "payment_enabled": null,
+  "phone": "+1 202-555-0102",
+  "photos": [],
+  "poi_name": null,
+  "promos": [],
+  "pwps_action": "Dato sintético de prueba",
+  "pwps_version": null,
+  "reverse_geocoded_address": "Avenida de las Pruebas 102, Villa Ejemplo, 09002, México",
+  "reverse_geocoded_address_components": {
+    "administrative_area_1": "Estado Ejemplo",
+    "administrative_area_2": null,
+    "administrative_area_3": null,
+    "country_code": "MX",
+    "locality": "Villa Ejemplo",
+    "postal_code": "09002",
+    "route": "Avenida de las Pruebas",
+    "street_number": "102",
+    "sublocality_1": null,
+    "sublocality_2": null,
+    "sublocality_3": null
+  },
+  "reviews": [],
+  "station_count": 1,
+  "stations": [
+    {
+      "amps": null,
+      "available": 1,
+      "available_changed_at": null,
+      "cost": 1,
+      "cost_description": "Dato sintético de prueba",
+      "created_at": "2000-01-01T12:00:00Z",
+      "hours": "Dato sintético de prueba",
+      "id": 997001,
+      "kilowatts": null,
+      "location_id": 990002,
+      "manufacturer": "Dato sintético de prueba",
+      "model": "Dato sintético de prueba",
+      "name": null,
+      "network_ext_id": null,
+      "network_id": null,
+      "nissan_nctc": false,
+      "ocpi_ids": null,
+      "ocpp_version": null,
+      "outlets": [
+        {
+          "amps": null,
+          "available": null,
+          "available_changed_at": null,
+          "connector": 1,
+          "connector_name": "J-1772",
+          "connector_type": 1,
+          "description": null,
+          "evse_ext_id": null,
+          "id": 997031,
+          "is_dc": false,
+          "kilowatts": null,
+          "network_ext_id": null,
+          "outlet_index": null,
+          "power": 1,
+          "power_type": "Dato sintético de prueba",
+          "prices": [],
+          "status": null,
+          "status_changed_at": null,
+          "volts": null
+        }
+      ],
+      "payment_enabled": null,
+      "pre_charge_instructions": null,
+      "preferred_feed_id": null,
+      "promos": [],
+      "pwps_version": null,
+      "qr_enabled": null,
+      "requiresAccessCard": false,
+      "volts": null
+    }
+  ],
+  "status": "Dato sintético de prueba",
+  "title_description": "Dato sintético de prueba",
+  "total_photos": 0,
+  "total_reviews": 0,
+  "under_repair": false,
+  "updated_at": "2000-01-01T12:00:00Z",
+  "url": "https://example.invalid/fixture-2/url",
+  "valid_outlets": [
+    {
+      "connector": 1,
+      "image": "https://example.invalid/fixture-2/image",
+      "image2": "https://example.invalid/fixture-2/image2",
+      "name": "Hotel Ficticio Beta",
+      "outlet_type_id": 1,
+      "power": 1,
+      "short_name": "Dato sintético de prueba"
+    },
+    {
+      "connector": 1,
+      "power": 1
+    },
+    {
+      "connector": 1,
+      "power": 1
+    },
+    {
+      "connector": 1,
+      "power": 1
+    },
+    {
+      "connector": 1,
+      "power": 1
+    },
+    {
+      "connector": 1,
+      "power": 1
+    },
+    {
+      "connector": 1,
+      "power": 1
+    },
+    {
+      "connector": 1,
+      "power": 1
+    }
+  ]
+}

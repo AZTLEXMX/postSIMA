@@ -1,0 +1,161 @@
+{
+  "data": {
+    "marketing": {
+      "display_driving_directions": false,
+      "show_on_bodyshop_support_page": false,
+      "show_on_find_us": true,
+      "store_sub_region": {
+        "display_name": "Región Ejemplo",
+        "locale": null
+      },
+      "display_name": "Supercharger Ficticio Delta",
+      "roadside_assistance_number": "+1 202-555-0104",
+      "address_notes": null,
+      "gmaps_override": "https://example.invalid/fixture-4/gmaps_override",
+      "location_url_slug": "ubicacion-ficticia-4",
+      "gmaps_override_longitude": -101.5,
+      "store_region": {
+        "name": "Región Ejemplo"
+      },
+      "gmaps_override_latitude": 22.5,
+      "service_center_phone": null,
+      "service_hours_by_appointment_only": "Dato sintético de prueba",
+      "store_hours_by_appointment_only": "Dato sintético de prueba",
+      "phone_numbers": null,
+      "common_name": "Supercharger Ficticio Delta",
+      "site_event": {
+        "has_event": null
+      }
+    },
+    "functions": [
+      {
+        "business_hours": {
+          "hours": []
+        },
+        "address": {
+          "country": "MX",
+          "formatted_address": [
+            "Avenida de las Pruebas 104, Villa Ejemplo, 09004, México"
+          ],
+          "address_validated": false,
+          "city": "Villa Ejemplo",
+          "address_1": "Avenida de las Pruebas 104",
+          "address_2": "Área de demostración",
+          "latitude": 22.5,
+          "county": null,
+          "state_province": "Estado Ejemplo",
+          "locale": "es-MX",
+          "address_number": "104",
+          "address_street": "Avenida de las Pruebas",
+          "district": null,
+          "country_name": null,
+          "address_provider_enum": "Dato sintético de prueba",
+          "postal_code": "09004",
+          "postal_code_suffix": null,
+          "longitude": -101.5
+        },
+        "address_by_locale": [
+          {
+            "country": "MX",
+            "formatted_address": [
+              "Avenida de las Pruebas 104, Villa Ejemplo, 09004, México"
+            ],
+            "address_validated": false,
+            "city": "Villa Ejemplo",
+            "address_1": "Avenida de las Pruebas 104",
+            "address_2": "Área de demostración",
+            "latitude": 22.5,
+            "county": null,
+            "state_province": "Estado Ejemplo",
+            "locale": "es-MX",
+            "address_number": "104",
+            "address_street": "Avenida de las Pruebas",
+            "district": null,
+            "country_name": null,
+            "address_provider_enum": "Dato sintético de prueba",
+            "postal_code": "09004",
+            "postal_code_suffix": null,
+            "longitude": -101.5
+          }
+        ],
+        "customer_facing_name": "Supercharger Ficticio Delta",
+        "translations": {
+          "customerFacingName": {
+            "en-US": "Supercharger Ficticio Delta"
+          }
+        },
+        "name": "Supercharger Ficticio Delta",
+        "opening_date": "2000-01-01",
+        "status": "Dato sintético de prueba"
+      }
+    ],
+    "tesla_center_collision_function": {
+      "company_phone": null
+    },
+    "key_data": {
+      "address": {
+        "country": "MX",
+        "formatted_address": [
+          "Avenida de las Pruebas 104, Villa Ejemplo, 09004, México"
+        ],
+        "address_validated": false,
+        "city": "Villa Ejemplo",
+        "address_1": "Avenida de las Pruebas 104",
+        "address_2": "Área de demostración",
+        "latitude": 22.5,
+        "county": null,
+        "state_province": "Estado Ejemplo",
+        "locale": "es-MX",
+        "address_number": "104",
+        "address_street": "Avenida de las Pruebas",
+        "district": null,
+        "country_name": "México",
+        "address_provider_enum": "Dato sintético de prueba",
+        "postal_code": "09004",
+        "postal_code_suffix": null,
+        "longitude": -101.5
+      },
+      "phone": null,
+      "local_address": null,
+      "use_local_address": false,
+      "geo_point": {
+        "lon": -101.5,
+        "lat": 22.5
+      },
+      "status": {
+        "name": "Supercharger Ficticio Delta"
+      },
+      "address_by_locale": [
+        {
+          "country": "MX",
+          "city": "Villa Ejemplo",
+          "address_1": "Avenida de las Pruebas 104",
+          "address_2": "Área de demostración",
+          "latitude": 22.5,
+          "country_name": null,
+          "state_province": "Estado Ejemplo",
+          "locale": "es-MX",
+          "postal_code": "09004",
+          "longitude": -101.5
+        }
+      ]
+    },
+    "supercharger_function": {
+      "customer_facing_coming_soon_date": "Dato sintético de prueba",
+      "actual_longitude": "-101.5",
+      "access_type": "Dato sintético de prueba",
+      "installed_full_power": "120",
+      "vote_winner_quarter": null,
+      "show_on_find_us": "Dato sintético de prueba",
+      "project_status": "Dato sintético de prueba",
+      "actual_latitude": "22.5",
+      "open_to_non_tesla": false,
+      "coming_soon_longitude": "-101.5",
+      "site_status": "Dato sintético de prueba",
+      "coming_soon_name": null,
+      "charging_accessibility": "Dato sintético de prueba",
+      "coming_soon_latitude": "22.5",
+      "num_charger_stalls": "6"
+    }
+  }
+}
